@@ -1,4 +1,4 @@
-*For full PDF with images, please download above.*
+*For a full PDF of the paper with images, please view above or download the repository.*
 
 Abstract
 ------
