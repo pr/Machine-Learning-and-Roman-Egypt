@@ -1,6 +1,7 @@
-*For full PDF with images, please download above*
+*For full PDF with images, please download above.*
 
-*Abstract*
+Abstract
+------
 
 Classical historical demography has long relied on traditional
 statistics for insight. As this path is well-trod, new insight is
@@ -9,7 +10,8 @@ that the burgeoning field of machine learning offers an exciting
 opportunity to revisit existing data with greater powers of prediction
 and superior proxies.
 
-*Introduction *
+Introduction
+------
 
 The great challenge for demographers of the ancient Roman world is a
 lack of sources upon which to base their study. A smattering of literary
@@ -35,7 +37,8 @@ learning offers a novel perspective and innovative techniques for
 dealing with the challenges of the census returns, and its adoption by
 classical demographers will allow original insight.
 
-*Roman Census Returns *
+Roman Census Returns
+------
 
 The returns themselves are a collection just over three hundred census
 declarations filed by ordinary Egyptians. They date from 11/12 AD to
@@ -86,7 +89,8 @@ That’s not to say previous historians haven’t tried however, and to see
 the power and advantage of machine learning over traditional methods of
 ancient demography, first it is helpful to look at what came before.
 
-*Notable Previous Scholarship *
+Notable Previous Scholarship
+------
 
 Bagnall and Frier’s book *The Demography of Roman Egypt* is a natural
 starting point for looking at previous scholarship, as their work in
@@ -141,7 +145,8 @@ of traditional statistical modeling, well-trod ground that Scheidel has
 expertly passed over more than a half dozen times, but in machine
 learning.
 
-*Machine Learning: Overview & Applicability*
+Machine Learning: Overview & Applicability
+------
 
 So what is machine learning? And how is it applicable? Machine learning
 is “the process of discovering the relationships between predictor and
@@ -227,7 +232,8 @@ notable not for their work with demography, but for their application of
 machine learning techniques to data sets with similar characteristics to
 the census records, namely the small size.
 
-*First Small Data Set Machine Learning Technique: Synthetic Noise*
+First Small Data Set Machine Learning Technique: Synthetic Noise
+------
 
 The first proxy for dealing with small data discusses the technique of
 “synthetic noise.” This technique is very recent, and was developed in
@@ -279,7 +285,8 @@ with great success. This technique is not unique to soil however, and
 there is no reason it couldn’t succeed in the arena of ancient
 demography as well.
 
-*Second Small Data Set Machine Learning Technique: Mega Diffusion*
+Second Small Data Set Machine Learning Technique: Mega Diffusion
+------
 
 Synthetic noise is not the only small data set machine learning
 technique however. Many older examples exist, most notably one called
@@ -329,7 +336,8 @@ returns. Thinking about the census returns as a kind of neural network
 is also an interesting possibility, and fits in well with this machine
 learning method.
 
-*Machine Learning: Looking Forward*
+Machine Learning: Looking Forward
+------
 
 Unfortunately at this time, there is no direct proxy for a data set with
 both a small amount of variables and also a focus on demography. This is
@@ -352,7 +360,8 @@ newer techniques are developed the extrapolation that statistics and
 machine learning offer will only become easier and more accurate.
 Synthetic Noise and Mega Diffusion are the tip of the iceberg.[33]
 
-*Potential Historical Proxies *
+Potential Historical Proxies
+------
 
 As the revolution comes however, we must circle back to the question of
 proxy. As previously stated, machine learning and statistics are only as
@@ -416,7 +425,8 @@ sourcing a good proxy is fundamental for accurate analysis. All this
 merely reinforces the fundamental role the human element plays in
 machine learning, and the importance of proper proxy selection.
 
-*Conclusion*
+Conclusion
+------
 
 In 1996, Walter Scheidel wrote “as far as quantitative analysis is
 concerned, the end of ancient demography is already in sight.”[38] Five
